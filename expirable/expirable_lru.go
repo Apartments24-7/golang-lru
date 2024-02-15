@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/hashicorp/golang-lru/internal"
+	"github.com/Apartments24-7/golang-lru/internal"
 )
 
 // EvictCallback is used to get a callback when a cache entry is evicted

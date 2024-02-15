@@ -13,7 +13,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/hashicorp/golang-lru/simplelru"
+	"github.com/Apartments24-7/golang-lru/simplelru"
 )
 
 func BenchmarkLRU_Rand_NoExpire(b *testing.B) {
